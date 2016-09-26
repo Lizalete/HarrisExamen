@@ -1,0 +1,7 @@
+c:\users\liz\documents\visual studio 2010\Projects\HarrisExamen\HarrisExamen\bin\Debug\HarrisExamen.exe
+c:\users\liz\documents\visual studio 2010\Projects\HarrisExamen\HarrisExamen\bin\Debug\HarrisExamen.pdb
+c:\users\liz\documents\visual studio 2010\Projects\HarrisExamen\HarrisExamen\obj\x86\Debug\HarrisExamen.Form1.resources
+c:\users\liz\documents\visual studio 2010\Projects\HarrisExamen\HarrisExamen\obj\x86\Debug\HarrisExamen.Properties.Resources.resources
+c:\users\liz\documents\visual studio 2010\Projects\HarrisExamen\HarrisExamen\obj\x86\Debug\HarrisExamen.csproj.GenerateResource.Cache
+c:\users\liz\documents\visual studio 2010\Projects\HarrisExamen\HarrisExamen\obj\x86\Debug\HarrisExamen.exe
+c:\users\liz\documents\visual studio 2010\Projects\HarrisExamen\HarrisExamen\obj\x86\Debug\HarrisExamen.pdb
